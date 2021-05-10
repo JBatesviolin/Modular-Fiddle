@@ -9,6 +9,8 @@ Body
    *  bed
    *  nozzle
   *  filament 
+
+
 Neck 
   * layer height
   * infill
@@ -19,6 +21,8 @@ Neck
    *  bed
    *  nozzle
   *  filament 
+
+
 Tailpiece
   * layer height
   * infill
@@ -29,6 +33,8 @@ Tailpiece
    *  bed
    *  nozzle
   *  filament 
+
+
 Pegs 
   * layer height
   * infill
@@ -39,6 +45,8 @@ Pegs
    *  bed
    *  nozzle
   *  filament 
+
+
 Pegbox
   * layer height
   * infill
@@ -49,6 +57,8 @@ Pegbox
    *  bed
    *  nozzle
   *  filament 
+
+
 Bridges
   * layer height
   * infill
